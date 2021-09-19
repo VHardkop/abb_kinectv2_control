@@ -1,7 +1,7 @@
-# abb_kinectv2_control
-Provides a functional skeleton-tracking based controller for an abb irb 1600 robot simulation
+# abb_kinectv2_control\\
+Provides a functional skeleton-tracking based controller for an abb irb 1600 robot simulation\\
 
-# Der folgende Abschnitt beschreibt die Installation der für das Projekt benötigten Softwarepakete. Vor der Installation muss eine ROS-Version auf dem PC installiert sein. Die Installation ist unter der Full-Desktop-Version von ROS-Noetic installiert. Der verwendete Computer nutzt Ubuntu 20.04. Die anfängliche Installation von libfreenect2, TurboJPEG, OpenGL, CUDA und VAAPI sind von der Website \citep{Pung} mit entsprechendem Reporsitory entnommen.\\
+Der folgende Abschnitt beschreibt die Installation der für das Projekt benötigten Softwarepakete. Vor der Installation muss eine ROS-Version auf dem PC installiert sein. Die Installation ist unter der Full-Desktop-Version von ROS-Noetic installiert. Der verwendete Computer nutzt Ubuntu 20.04. Die anfängliche Installation von libfreenect2, TurboJPEG, OpenGL, CUDA und VAAPI sind von der Website \citep{Pung} mit entsprechendem Reporsitory entnommen.\\
 	
 # Die folgenden Schritte müssen für die Installation abgearbeitet werden:\\
 
